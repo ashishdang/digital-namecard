@@ -1,1 +1,3 @@
-# digital-namecard
+# Digital-Namecard
+
+![plot](./assets/qr_code.png)

@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Robin;Opdam;;;
-FN: Opdam  Robin 
+N:Ashish;Dang;;;
+FN: Ashish Dang 
 ORG:YGroup Companies;
-TITLE:Analyst, Data Science\nYGroup Companies
-EMAIL;type=INTERNET;type=WORK;type=pref:robin.opdam@ygroupcompanies.com
-TEL;type=WORK;type=VOICE:+31611920800
+TITLE:Director, Data \nYGroup Companies
+EMAIL;type=INTERNET;type=WORK;type=pref:ashish.dang@ygroupcompanies.com
+TEL;type=WORK;type=VOICE:+31610161427
 item1.ADR;type=WORK;type=pref:;;Alpha Tower 7th & 8th floor\n De Entree\, 69;;;1101BH;Amsterdam
 item1.X-ABADR:com
 item2.URL;type=pref:www.ygroupcompanies.com
